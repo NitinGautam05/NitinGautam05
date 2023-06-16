@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Android developer with a keen int
 
 I'm constantly learning and expanding my knowledge in various areas, including:
 
-- Jetpack Compose
+- Android Material Design
 - Kotlin Coroutines
 - MVVM Architecture
 - Design Patterns
