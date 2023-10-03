@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate Android developer with a keen int
 
 ## 👀 Interests
 
-- Android App Development (with a focus on backend code)
+- Android App Development 
 - Software Architecture
 - Clean Code Principles
 
