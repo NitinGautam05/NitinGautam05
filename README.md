@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm **Nitin Gautam**, a passionate Data Scientist with a s
 
 ## 🧠 Skills
 
-- **Programming Languages**: Python, R, SQL, Kotlin
+- **Programming Languages**: Python, SQL, Kotlin, C, C++
 - **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **NLP**: NLTK, Transformers
@@ -15,7 +15,8 @@ Welcome to my GitHub! I'm **Nitin Gautam**, a passionate Data Scientist with a s
 ## 🛠️ Tools & Technologies
 
 - **Version Control**: Git, GitHub
-- **Cloud Platforms**: Google Cloud
+- **Cloud Platforms**: Google Cloud, Firebase, Android Studio,
+ Android SDK, VS Code, GitHub, Jupyter Notebooks, Colab
 
 ## 💞️ Collaboration
 
