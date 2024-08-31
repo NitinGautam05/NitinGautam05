@@ -15,8 +15,9 @@ Welcome to my GitHub! I'm **Nitin Gautam**, a passionate Data Scientist with a s
 ## 🛠️ Tools & Technologies
 
 - **Version Control**: Git, GitHub
-- **Cloud Platforms**: Google Cloud, Firebase, Android Studio,
- Android SDK, VS Code, GitHub, Jupyter Notebooks, Colab
+- **Cloud Platforms**: Google Cloud, Firebase
+- **Development Environments**: Android Studio, VS Code, Jupyter Notebooks, Google Colab
+- **Mobile Development Tools**: Android SDK
 
 ## 💞️ Collaboration
 
