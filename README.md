@@ -1,23 +1,22 @@
+# Hi, I'm Nitin Gautam
 
-# Hello I'm Nitin Gautam
+AI/ML Engineer at Omnipresent Robot Tech, working on computer vision
+systems for real-world deployment.
 
+## What I work on
+- Real-time object detection, tracking and fine-grained classification
+- Motion analysis (optical flow) and camera geometry for long-range detection
+- Automated data annotation pipelines
+- On-premise RAG/LLM systems for secure environments
 
-Welcome to my GitHub! I'm **Nitin Gautam**, a passionate Data Scientist with a strong background in machine learning, deep learning, and data analysis. My expertise lies in developing efficient models and deploying them in real-world applications.
+Much of my professional work is confidential, so the projects below are
+public work that reflects the same skills.
 
-## 🧠 Skills
+## Tech
+Python · PyTorch · OpenCV · Hugging Face · LangChain · ChromaDB · Docker
 
-- **Programming Languages**: Python, SQL, Kotlin, C, C++
-- **Machine Learning & Deep Learning**: Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
-- **NLP**: NLTK, Transformers
-- **Tools**: Jupyter Notebook, Google Colab, Git
-
-## 🛠️ Tools & Technologies
-
-- **Version Control**: Git, GitHub
-- **Cloud Platforms**: Google Cloud, Firebase
-- **Development Environments**: Android Studio, VS Code, Jupyter Notebooks, Google Colab
-- **Mobile Development Tools**: Android SDK
+## Selected projects
+- [RAG-Scholar](https://github.com/NitinGautam05/RAG-Scholar): RAG chatbot for research papers (text, tables, images)
 
 ## 💞️ Collaboration
 
